@@ -3,6 +3,10 @@
 
 # Hi there!! I`m 💻Sebastian 💻 | Hola!!  Soy  💻Sebastian 💻
 
+<h3>I'm currently studying at 42 Telefónica, a project-based programming school where learning is driven by peer collaboration and hands-on experience with real coding challenges. Additionally, I'm pursuing a Software Engineering degree at university, which complements my education at 42 by providing a solid foundation in software development, algorithms, and systems design.</h3>
+[![sepun's 42 stats](https://badge.mediaplus.ma/binary/sepun)](https://github.com/oakoudad/badge42)
+
+
 <h2>Sobre mi</h2>
 <P>Soy un desarrollador de software con habilidades en comunicación, trabajo en equipo y resolución de problemas. Me adapto rápido, priorizo la calidad del código y acepto la retroalimentación para mejorar. Creativo, organizado y comprometido con el aprendizaje continuo, me enfoco en crear soluciones centradas en el usuario.</P>
 <h1>----------------------------------------------------------------------</h1>
